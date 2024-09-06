@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Python, Advanced C++ and Java**
 
-- 📫 How to reach me **www.linkedin.com/in/snehitkrishna-shastry-g-010684279**
+- 📫 How to reach me **www.linkedin.com/in/snehit-krishna-shastry-g-010684279**
 
 - ⚡ Fun fact **I am a VTU level chess player**
 
