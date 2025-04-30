@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Snehit Krishan Shastry G</h1>
+<h1 align="center">Hi 👋, I'm Snehit Krishna Shastry G</h1>
 <h3 align="center">A passionate software engineer looking forward to learning new things everyday !!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shastry03&label=Profile%20views&color=0e75b6&style=flat" alt="shastry03" /> </p>
